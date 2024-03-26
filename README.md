@@ -18,3 +18,13 @@ def create_dog_fact_fetcher():
         return fact
     return get_dog_fact
 ```
+Создание декоратора, ограничивающего кол-во вызовов до 3 за время 
+____
+
+Результат работы:
+
+> ![image](https://github.com/MTrucky/lab4/assets/146337304/758257ec-f893-4426-a073-88d5596a85c8)
+
+
+[всё про декораторы](https://habr.com/ru/companies/otus/articles/727590/)
+[замыкания](https://habr.com/ru/companies/skillfactory/articles/542880/)
