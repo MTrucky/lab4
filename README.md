@@ -28,6 +28,6 @@ ____
 > ![image](https://github.com/MTrucky/lab4/assets/146337304/758257ec-f893-4426-a073-88d5596a85c8)
 
 
-## [Декораторы](https://habr.com/ru/companies/otus/articles/727590/)
+ [Декораторы](https://habr.com/ru/companies/otus/articles/727590/)
 
-## [Замыкания](https://habr.com/ru/companies/skillfactory/articles/542880/)
+ [Замыкания](https://habr.com/ru/companies/skillfactory/articles/542880/)
